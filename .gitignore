@@ -6,6 +6,16 @@ dist/
 wheels/
 *.egg-info
 settings/
+pyproject.toml
+.python-version
+uv.lock
 
-# Virtual environments
+
+# Environments
+.env
 .venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
